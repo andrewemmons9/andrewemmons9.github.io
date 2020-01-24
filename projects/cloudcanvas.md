@@ -4,11 +4,11 @@ type: project
 image: images/cloudcanvas.jpg
 title: Cloud Canvas
 permalink: projects/cloudcanvas
-date: 2020-23-01
+# All dates must be YYYY-MM-DD format!
+date: 2014-04-12
 labels:
-  - Creativity
-  - Music
-  - Development
+  - Lisp
+  - GitHub
 summary: Cloud Canvas is a rock band that I am apart of. I am the frontman, as well as the band manager.
 ---
 
