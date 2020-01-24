@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cloudcanvas.jpg
+image: images/kawebsitelogo.jpg
 title: Korean Association
 permalink: projects/kawebsite
 date: 2020-23-01
@@ -12,7 +12,7 @@ labels:
 summary: tukah24.com is a website I built for an election to gather information on voters. 
 ---
 
-<img class="ui medium right floated rounded image" src="/images/cloudcanvas.jpg">
+<img class="ui medium right floated rounded image" src="/images/kawebsitelogo.jpg">
 
 This is a project that was almost a gateway into web development for myself. During the summer of 2019, I had the opportunity to design and build a website to help gather information for an election for the Korean Association. This election was between two presidents, which had over 2,300 voters. The information of all of these voters went through a program that I built which connected to a database. The data was then saved, and given to the Korean Association for further analyzation. 
 
