@@ -70,23 +70,4 @@
       "courses": [
       ]
     }
-  ],
-  "work": [
-    {
-      "company": "United Korean Association of Hawaii",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2019-08-01",
-      "endDate": "10/31/2019",
-      "highlights": [
-        "Develop, and maintain a proper website to gather information"
-      ]
-    },
- 
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
-}
