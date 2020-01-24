@@ -12,7 +12,7 @@ labels:
 summary: Cloud Canvas is a rock band that I am apart of. I am the frontman, as well as the band manager.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
+<img class="ui medium right floated rounded image" src="/images/cloudcanvas.jpg">
 
 Cloud Canvas is one of the many music projects that I've had in my life. We are an alternative rock band, and we perform at bars and other venues when we have the opportunity. The songwriting in this project mainly reflects life, and the many struggles that we have to go through. The music that we perform is different to what we have available on streaming platforms. Our live sound is more songwriter oriented, whereas the music that has been distributed is more alternative. We are a three piece rock band which has members originating from Hawai'i.
 
