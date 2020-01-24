@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/cloudcanvas.jpg
 title: Cloud Canvas
 permalink: projects/cloudcanvas
 date: 2020-23-01
