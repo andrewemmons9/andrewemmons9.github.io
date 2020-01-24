@@ -1,25 +1,24 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+image: images/cloudcanvas.jpg
+title: Cloud Canvas
+permalink: projects/cloudcanvas
+date: 2020-23-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Creativity
+  - Music
+  - Development
+summary: Cloud Canvas is a rock band that I am apart of. I am the frontman, as well as the band manager.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="/images/cloudcanvas.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Cloud Canvas is one of the many music projects that I've had in my life. We are an alternative rock band, and we perform at bars and other venues when we have the opportunity. The songwriting in this project mainly reflects life, and the many struggles that we have to go through. The music that we perform is different to what we have available on streaming platforms. Our live sound is more songwriter oriented, whereas the music that has been distributed is more alternative. We are a three piece rock band which has members originating from Hawai'i.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+My role in Cloud Canvas is the frontman. I am the singer songwriter, and my band helps me bring the songs to life. As a frontman, I get to engage with the audience and it is my role to keep them entertained. I also am in charge of managing the band, when it comes to getting shows, and booking rehearsal times. Likewise, I produce the music that is then distributed to streaming platforms such as Spotify, and Apple Music. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This experience has taught me a lot. From this, I have become a better public speaker, and know how to better engage an audience. I believe that this is a skill that can be used universally in many different situations. This experience also taught me the value of marketing a product and believing in something that isn't necessarily going to give you much in return. However, the satisfaction from being able to perform more and keep playing is what keeps me going. It has taught me that finding a passion in life is very important, and can help us achieve our goals. 
+
+
+You can listen to us here: https://www.youtube.com/watch?v=lIy0yj0w1IM
